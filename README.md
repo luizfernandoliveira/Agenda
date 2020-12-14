@@ -13,7 +13,7 @@ Em seguida, você entra com a letra correspondente para adicionar, visualizar ou
 
 Versão Python: 3
 
-``console
+```console
 python 3 .venv
 source Agenda\.venv\Scripts\activate
 pip install -r requirements-dev.txt
