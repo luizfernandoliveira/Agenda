@@ -1,4 +1,4 @@
-db = {}
+'''db = {}
 print('Agenda (Telefone e endereço)')
 while True:
     print('Oque você gostaria de fazer?')
@@ -30,3 +30,4 @@ while True:
     elif action == 'S':
         print('Até a próxima')
         break
+'''
