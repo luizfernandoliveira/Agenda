@@ -11,6 +11,8 @@ Entre com  S para sair"
 
 Em seguida, você entra com a letra correspondente para adicionar, visualizar ou listar os contatos.
 
+[![Build Status](https://travis-ci.com/luizfernandoliveira/Agenda.svg?branch=main)](https://travis-ci.com/luizfernandoliveira/Agenda)
+
 Versão Python: 3
 
 ```console
